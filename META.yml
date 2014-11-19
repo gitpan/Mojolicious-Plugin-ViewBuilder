@@ -29,11 +29,11 @@ no_index:
 provides:
   Mojolicious::Plugin::ViewBuilder:
     file: lib/Mojolicious/Plugin/ViewBuilder.pm
-    version: '0.02'
+    version: '0.03'
 requires:
   Mojo::Base: '0'
 resources:
   bugtracker: https://github.com/mudler/Mojolicious-Plugin-ViewBuilder/issues
   homepage: https://github.com/mudler/Mojolicious-Plugin-ViewBuilder
   repository: git://github.com/mudler/Mojolicious-Plugin-ViewBuilder.git
-version: '0.02'
+version: '0.03'
